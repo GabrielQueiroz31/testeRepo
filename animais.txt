@@ -1,6 +1,10 @@
 Tartaruga
+<<<<<<< HEAD
 Elfante grande[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[D
 Tartaruga
 Squirtle
 Greninja
 Gyariados
+=======
+Elefante grande
+>>>>>>> 3c5fc84c8ca6fdcba5a1076554b25d902be33a25
